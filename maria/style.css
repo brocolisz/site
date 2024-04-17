@@ -1,3 +1,9 @@
-body{
-    background-color: blueviolet;
+header{
+    background-color: #302144;
+}
+
+li{
+    font-size: 50px;
+    color:antiquewhite
+
 }
