@@ -1,9 +1,16 @@
-header{
+header {
     background-color: #302144;
+    display:flex;
 }
 
-li{
+ul{
     font-size: 50px;
-    color:antiquewhite
+    color: white;
+    display: flex-end;
+    flex-direction: column;
+    
+}
 
+.cabecalho-imagem{
+    width:20% ;
 }
