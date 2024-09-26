@@ -37,13 +37,17 @@
 }
 
 
+.imagempng{
+    width: 90px;
+}
 
 
+.estudante-titulo{
+    text-align: center;
+}
 
- 
-    width:40% ;
-
- 
-
- 
-    
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20% ;
+    padding: 50px;
+}
